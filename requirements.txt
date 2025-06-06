@@ -1,0 +1,4 @@
+gunicorn==23.0.0
+jsonpointer==3.0.0
+packaging==25.0
+python-dotenv==1.1.0
